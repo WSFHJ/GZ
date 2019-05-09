@@ -12,4 +12,8 @@ public interface Demo {
 	
 	void master();//Ö÷·ÖÖ§
 	
+	void bbb();
+	
+	void ccc();
+	
 }
