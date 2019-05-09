@@ -10,4 +10,6 @@ public interface Demo {
 	//李四
 	void dd();
 	
+	void master();//主分支
+	
 }
