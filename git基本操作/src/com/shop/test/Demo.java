@@ -7,6 +7,7 @@ public interface Demo {
 	//张三
 	void aaa();
 	
+	//李四
+	void dd();
 	
-
 }
