@@ -16,6 +16,10 @@ public interface Demo {
 	
 	void ccc();
 	
+
 	void eee();
+
+	void fff();
+
 	
 }
